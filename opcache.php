@@ -458,8 +458,8 @@ $dataModel = new OpCacheDataModel();
             cursor: pointer;
         }
     </style>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.0.1/d3.v3.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//cdn.bootcss.com/d3/3.0.1/d3.v3.min.js"></script>
+    <script src="//cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
     <script>
         var hidden = {};
         function toggleVisible(head, row) {
